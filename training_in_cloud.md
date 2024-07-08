@@ -6,4 +6,4 @@ Link de entrenamiento 1:
 
 Link K_Fold:
 
--
+- https://www.kaggle.com/code/franciscosuarezb/k-fold
